@@ -8,5 +8,14 @@
 
 The streamlit app end-user displays or expressed an input text and displays a visual representation of the sentiment scores.
 
+## Hugging Face
+https://huggingface.co/RICHARDMENSAH 
+
+STREAMLIT-APP 
+RICHARDMENSAH/SENTIMENT-ANALYSIS-APP
+
+## Medium Article
+https://medium.com/@richmensah1997/sentiment-analysis-with-natural-language-processing-c13a164f3a9d?postPublishedType=initial S
+
 # Author 
 Richard Mensah
